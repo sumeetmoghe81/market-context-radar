@@ -1,7 +1,7 @@
 # Market Context Radar
 
-![Market Context Radar Screenshot](placeholder.png "Market Context Radar Application")
-*Replace `placeholder.png` with a screenshot of the application.*
+<img width="3232" height="1818" alt="market-context-radar (2)" src="https://github.com/user-attachments/assets/57eef510-d735-47cc-ab3f-638ff4f7acc9" />
+
 
 An interactive radar chart application to visualize market context data, featuring dynamic uploads from CSV/XLSX files, AI-powered insights via the Gemini API, and presentation-ready exports.
 
