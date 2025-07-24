@@ -1,0 +1,6 @@
+{
+  "name": "Market Context Radar",
+  "description": "An interactive radar chart to visualize market context data. Users can upload a CSV or XLSX file to dynamically generate the chart, and get AI-powered insights on each data point.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
